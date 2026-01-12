@@ -90,14 +90,3 @@ graph TD
     D --> E[Database]
     D --> F[Authentication]
 ```
-
-## Services Overview
-
-### Web Application Development
-![Web App Example](https://via.placeholder.com/300x200?text=Web+App+Screenshot)
-
-### Mobile Application Development
-![Mobile App Example](https://via.placeholder.com/300x200?text=Mobile+App+Screenshot)
-
-### Backend Development
-![Backend Diagram](https://via.placeholder.com/300x200?text=Backend+Architecture)
